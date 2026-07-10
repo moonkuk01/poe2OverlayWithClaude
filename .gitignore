@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# OS
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Editor
+.vscode/
+.idea/
+
+# 로컬 설정 (사용자 홈에 저장되지만 혹시 몰라)
+.poe2_overlay_config.json
